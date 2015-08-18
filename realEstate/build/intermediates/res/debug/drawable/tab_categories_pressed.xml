@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="@color/btn_pressed" />
+</shape><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/drawable/tab_categories_pressed.xml -->

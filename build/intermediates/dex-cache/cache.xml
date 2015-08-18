@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6cc6f7bd865b2ff3365d37b62b115976e450edf8.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/libs/httpmime-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="326bf4147f100e8a4fdd7f1867a87e969fb10812">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/httpmime-4.0.1-4ed07eee38c74bdcd1bae956d034ff06722e0483.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-6ddbd126817b67ad8ec02b4b97d305263f0316dd.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-010d26dd96948ed88cc2a602f2a023586ca9c2ae.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-eebaf59ac4263c179154fac83b90def2c1d6d1ca.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/gson-2.3-c2602f16175cb9570e784ca66c65fae769a07cf0.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-fb9dffff236495c5889df25f7e05aaa722ee9a18.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-792f017eb7c116ac636c243b17f8bfd7c7aca440.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-67b7c511e9eb89fb10c31945ef9a4929c542abea.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-c2db20cabc414e87c12224bea7edbe19f7e0208e.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-7457945b11da229ef9cea4be815f28ac9356a81c.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-d5523b4aa647049ed2d4520865a6957bf7d7d9ac.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-2d10dc225018923cb5cad08f1fbe4f7c98e2aef4.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-287e987d08c49022e3a408b35164b8f3671e4ce5.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-c4106344edcb66844c6ada0d3a5a6955109e789e.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1532dc458eb0ad394926727f6ddac074303fb14f.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-1402b54b3230f2f668a4d0ef5d6fd5439dd7fcd2.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-f6dc73478312b03a9ce6354f15dabb6b05992c44.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-9c25d856d77e67ffff6faba0e5b5041527ec0076.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/RealEstate Madico/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2d9a49f2f89ee296d3254439eaf0d61dcc606f28">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-767fdd4bef1d6355911447cf48746079a6fe519a.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/libs/NiceSupportMapFragment.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0732bf6f8cf76d2f57febfefc960a59f7ecc05c9">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/NiceSupportMapFragment-4c882ad7ae3761e40a7fd5586e51eb01d33ad9e6.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-ca91f30e6a22acc760f8ad33258462d3768aae7a.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-17f1ff30e31272ae37a51c39ff492bebe13f69e1.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-6da472eaedb26fcfc6727235262d2e41ea144b0e.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/libs/androidasync-1.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8dc7111050ee5f13a54b1206d47fee856159b2aa">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/androidasync-1.2.4-da79d0b307513c32edfdddb71687b3295080c0e5.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/libs/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/apache-mime4j-0.6-b60724de930e24beea7f0fffad370436028cfea9.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-cc06f8694d4b9651fb774c3baa80e42a5b59358a.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-04bce12288d1cc73c294c3793ea63f6e329f359c.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-180417687ba46870e77a4291cf4d2706c460e8ec.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-63927d0213a9c82028ac67f5fa65bfdcb7a401c1.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-13e6e6347c3c47793276ec78a64cf9bfa62eabac.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/libs/ion-1.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="776baf5cac8eb4145dc0901254122cf956a784e3">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/ion-1.2.4-ce12cfcf85b909efda06d88428b9890ffa482bea.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-70c411b674db3e9ac0457ddce29b0dba5c39efd1.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/mac/Documents/workspace/RealEstate Madico/realEstate/build/intermediates/pre-dexed/debug/classes-f19db90662e6ef5f5ef56203d0e1d244d9f27c52.jar" />
+    </item>
+
+</items>
