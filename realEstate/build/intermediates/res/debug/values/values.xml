@@ -8,14 +8,15 @@
     </string-array>
     <string-array name="drawer_menus">
         <item>Home</item>
-        <item>Featured</item>
+        <item>Premium Properties</item>
         <item>Types</item>
         <item>County</item>
         <item>City</item>
-        <item>Filter</item>
+        <item>Filter Search</item>
         <item>Near By</item>
         <item>Fan Page</item>
         <item>About Us</item>
+        <item>Terms and Conditions</item>
     </string-array>
     <string-array name="purpose_id">
         <item>0</item>
@@ -654,9 +655,9 @@
     <string name="fan_page">Fanpage</string>
     <string name="fan_page_link">https://m.facebook.com/pages/LrandomDev/541746319279638</string>
     <string name="fb_login_failed">Login failed, have an user have an account same your email and facebook id you supply in our system</string>
-    <string name="featured">Featured</string>
+    <string name="featured">Premium Properties</string>
     <string name="feed_label">Feed</string>
-    <string name="filter_label">Filter</string>
+    <string name="filter_label">Filter Search</string>
     <string name="folder_save_photo">droidmarket</string>
     <string name="follow_label">Follow</string>
     <string name="full_name">Full Name</string>
@@ -744,6 +745,7 @@
     <string name="submit">Submit</string>
     <string name="success_action">Successfully</string>
     <string name="tap_to_change_avt">Tap to change your avatar</string>
+    <string name="terms_conditions_label">Terms and Conditions</string>
     <string name="this_user_not_share_phone_number">This users not share phone number</string>
     <string name="title_label">Title</string>
     <string name="toast_time_out">5000</string>

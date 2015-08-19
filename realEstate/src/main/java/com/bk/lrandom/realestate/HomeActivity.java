@@ -27,6 +27,7 @@ import com.bk.lrandom.realestate.fragments.FilterFragment;
 import com.bk.lrandom.realestate.fragments.ProfileFragment;
 import com.bk.lrandom.realestate.fragments.PropertiesFragment;
 import com.bk.lrandom.realestate.fragments.CountyFragment;
+import com.bk.lrandom.realestate.fragments.TermsConditionsFragment;
 import com.bk.lrandom.realestate.fragments.TypesFragment;
 import com.bk.lrandom.realestate.interfaces.ProfileComunicator;
 import com.bk.lrandom.realestate.models.DrawerMenuItem;
@@ -67,13 +68,15 @@ public class HomeActivity extends ActionBarParentActivity implements
 		drawerItems.add(new DrawerMenuItem(drawerMenuTitles.getItem(4),
 				R.drawable.ic_city));
 		drawerItems.add(new DrawerMenuItem(drawerMenuTitles.getItem(5),
-				R.drawable.ic_filter));
+				R.drawable.ic_search));
 		drawerItems.add(new DrawerMenuItem(drawerMenuTitles.getItem(6),
 				R.drawable.ic_nearby));
 		drawerItems.add(new DrawerMenuItem(drawerMenuTitles.getItem(7),
 				R.drawable.ic_fanpage));
 		drawerItems.add(new DrawerMenuItem(drawerMenuTitles.getItem(8),
 				R.drawable.ic_info));
+		drawerItems.add(new DrawerMenuItem(drawerMenuTitles.getItem(9),
+				R.drawable.ic_terms_conditions));
 		drawerMenuAdapter = new DrawerMenuAdapter(this, drawerItems);
 
 		lst.setAdapter(drawerMenuAdapter);
@@ -175,6 +178,11 @@ public class HomeActivity extends ActionBarParentActivity implements
 			changeActionBarTitle(getResources().getString(
 					R.string.about_us_label));
 			break;
+		case 10:
+				fragment = TermsConditionsFragment.newInstance();
+				changeActionBarTitle(getResources().getString(
+						R.string.terms_conditions_label));
+				break;
 		default:
 			break;
 		}
@@ -209,7 +217,7 @@ public class HomeActivity extends ActionBarParentActivity implements
 	public boolean onOptionsItemSelected(MenuItem item) {
 		// TODO Auto-generated method stub
 		switch (item.getItemId()) {
-		case R.id.btn_action_upload:
+		case R.id.btn_filter:
 
 			break;
 

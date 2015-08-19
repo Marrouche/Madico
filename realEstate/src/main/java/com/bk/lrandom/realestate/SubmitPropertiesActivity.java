@@ -444,7 +444,7 @@ public class SubmitPropertiesActivity extends ActionBarParentActivity implements
 				+ "type", handler_type, KEY_TYPE_RESPONSE).execute();
 
 		LinkedHashSet<Integer> disableItem = new LinkedHashSet<Integer>();
-		disableItem.add(R.id.btn_action_upload);
+		disableItem.add(R.id.btn_filter);
 		setDisableItem(disableItem);
 		setTitle(R.string.upload_label);
 

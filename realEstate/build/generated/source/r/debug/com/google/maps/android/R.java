@@ -545,38 +545,38 @@ public final class R {
 		public static final int ic_cast_on_1_light = 0x7f020077;
 		public static final int ic_cast_on_2_light = 0x7f020078;
 		public static final int ic_cast_on_light = 0x7f020079;
-		public static final int ic_media_pause = 0x7f020088;
-		public static final int ic_media_play = 0x7f020089;
-		public static final int ic_media_route_disabled_mono_dark = 0x7f02008a;
-		public static final int ic_media_route_off_mono_dark = 0x7f02008b;
-		public static final int ic_media_route_on_0_mono_dark = 0x7f02008c;
-		public static final int ic_media_route_on_1_mono_dark = 0x7f02008d;
-		public static final int ic_media_route_on_2_mono_dark = 0x7f02008e;
-		public static final int ic_media_route_on_mono_dark = 0x7f02008f;
-		public static final int ic_pause_dark = 0x7f020093;
-		public static final int ic_pause_light = 0x7f020094;
-		public static final int ic_play_dark = 0x7f020097;
-		public static final int ic_play_light = 0x7f020098;
-		public static final int ic_plusone_medium_off_client = 0x7f020099;
-		public static final int ic_plusone_small_off_client = 0x7f02009a;
-		public static final int ic_plusone_standard_off_client = 0x7f02009b;
-		public static final int ic_plusone_tall_off_client = 0x7f02009c;
-		public static final int ic_setting_dark = 0x7f02009e;
-		public static final int ic_setting_light = 0x7f02009f;
-		public static final int mr_ic_audio_vol = 0x7f0200aa;
-		public static final int mr_ic_media_route_connecting_mono_dark = 0x7f0200ab;
-		public static final int mr_ic_media_route_connecting_mono_light = 0x7f0200ac;
-		public static final int mr_ic_media_route_mono_dark = 0x7f0200ad;
-		public static final int mr_ic_media_route_mono_light = 0x7f0200ae;
-		public static final int mr_ic_pause_dark = 0x7f0200af;
-		public static final int mr_ic_pause_light = 0x7f0200b0;
-		public static final int mr_ic_play_dark = 0x7f0200b1;
-		public static final int mr_ic_play_light = 0x7f0200b2;
-		public static final int mr_ic_settings_dark = 0x7f0200b3;
-		public static final int mr_ic_settings_light = 0x7f0200b4;
-		public static final int notification_template_icon_bg = 0x7f0200be;
-		public static final int powered_by_google_dark = 0x7f0200b6;
-		public static final int powered_by_google_light = 0x7f0200b7;
+		public static final int ic_media_pause = 0x7f020089;
+		public static final int ic_media_play = 0x7f02008a;
+		public static final int ic_media_route_disabled_mono_dark = 0x7f02008b;
+		public static final int ic_media_route_off_mono_dark = 0x7f02008c;
+		public static final int ic_media_route_on_0_mono_dark = 0x7f02008d;
+		public static final int ic_media_route_on_1_mono_dark = 0x7f02008e;
+		public static final int ic_media_route_on_2_mono_dark = 0x7f02008f;
+		public static final int ic_media_route_on_mono_dark = 0x7f020090;
+		public static final int ic_pause_dark = 0x7f020094;
+		public static final int ic_pause_light = 0x7f020095;
+		public static final int ic_play_dark = 0x7f020098;
+		public static final int ic_play_light = 0x7f020099;
+		public static final int ic_plusone_medium_off_client = 0x7f02009a;
+		public static final int ic_plusone_small_off_client = 0x7f02009b;
+		public static final int ic_plusone_standard_off_client = 0x7f02009c;
+		public static final int ic_plusone_tall_off_client = 0x7f02009d;
+		public static final int ic_setting_dark = 0x7f0200a0;
+		public static final int ic_setting_light = 0x7f0200a1;
+		public static final int mr_ic_audio_vol = 0x7f0200ad;
+		public static final int mr_ic_media_route_connecting_mono_dark = 0x7f0200ae;
+		public static final int mr_ic_media_route_connecting_mono_light = 0x7f0200af;
+		public static final int mr_ic_media_route_mono_dark = 0x7f0200b0;
+		public static final int mr_ic_media_route_mono_light = 0x7f0200b1;
+		public static final int mr_ic_pause_dark = 0x7f0200b2;
+		public static final int mr_ic_pause_light = 0x7f0200b3;
+		public static final int mr_ic_play_dark = 0x7f0200b4;
+		public static final int mr_ic_play_light = 0x7f0200b5;
+		public static final int mr_ic_settings_dark = 0x7f0200b6;
+		public static final int mr_ic_settings_light = 0x7f0200b7;
+		public static final int notification_template_icon_bg = 0x7f0200c1;
+		public static final int powered_by_google_dark = 0x7f0200b9;
+		public static final int powered_by_google_light = 0x7f0200ba;
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0b00bc;
@@ -765,7 +765,7 @@ public final class R {
 		public static final int select_dialog_multichoice_material = 0x7f030048;
 		public static final int select_dialog_singlechoice_material = 0x7f030049;
 		public static final int support_simple_spinner_dropdown_item = 0x7f03004c;
-		public static final int text_bubble = 0x7f03004d;
+		public static final int text_bubble = 0x7f03004e;
 	}
 	public static final class raw {
 		public static final int gtm_analytics = 0x7f060000;
@@ -842,7 +842,7 @@ public final class R {
 		public static final int status_bar_notification_info_overflow = 0x7f0d00c7;
 		public static final int store_picture_message = 0x7f0d00c8;
 		public static final int store_picture_title = 0x7f0d00c9;
-		public static final int wallet_buy_button_place_holder = 0x7f0d00e9;
+		public static final int wallet_buy_button_place_holder = 0x7f0d00ea;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f0e0000;

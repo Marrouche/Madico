@@ -26,7 +26,7 @@
     <string name="nearby">NearBy</string>
     <string name="radius">Radius</string>
     <string name="radius_valid">Radius need larger than zero</string>
-    <string name="featured">Featured</string>
+    <string name="featured">Premium Properties</string>
     <!-- Dialog msg -->
 
 
@@ -76,7 +76,8 @@
     <string name="bookmarked_product">Mark Prodcuts</string>
     <string name="logout">Logout</string>
     <string name="close_label">Close</string>
-    <string name="filter_label">Filter</string>
+    <string name="filter_label">Filter Search</string>
+    <string name="terms_conditions_label">Terms and Conditions</string>
     <string name="home_label">Home</string>
     <string name="profile_label">Profile</string>
     <string name="update_profile_label">Change your profile</string>
@@ -147,14 +148,15 @@
     <!-- DRAWER MENU -->
     <string-array name="drawer_menus">
         <item>Home</item>
-        <item>Featured</item>
+        <item>Premium Properties</item>
         <item>Types</item>
         <item>County</item>
         <item>City</item>
-        <item>Filter</item>
+        <item>Filter Search</item>
         <item>Near By</item>
         <item>Fan Page</item>
         <item>About Us</item>
+        <item>Terms and Conditions</item>
     </string-array>
     <string-array name="purpose_id">
         <item>0</item>

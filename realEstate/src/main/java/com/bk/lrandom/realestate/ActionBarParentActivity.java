@@ -7,17 +7,21 @@ import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.widget.ListView;
 import android.widget.Toast;
 
 import com.bk.lrandom.realestate.business.Ultils;
 import com.bk.lrandom.realestate.business.UserSessionManager;
+import com.bk.lrandom.realestate.fragments.FilterFragment;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-
+import android.support.v4.app.NavUtils;
 @SuppressLint("ShowToast")
 public class ActionBarParentActivity extends ActionBarActivity {
 	private LinkedHashSet<Integer> enableItems = new LinkedHashSet<Integer>();
@@ -71,6 +75,21 @@ public class ActionBarParentActivity extends ActionBarActivity {
 			finish();
 			break;
 
+		case R.id.filtering:
+
+			changeActionBarTitle(getResources()
+					.getString(R.string.filter_label));
+			FilterFragment fragment = FilterFragment.newInstance();
+			FragmentManager fragmentManager = getSupportFragmentManager();
+			fragmentManager.beginTransaction().replace(R.id.content, fragment)
+					.commit();
+			ListView lst = (ListView) findViewById(R.id.list_slidermenu);
+			lst.setItemChecked(6, true);
+			lst.setSelection(6);
+			DrawerLayout drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+			drawerLayout.closeDrawer(lst);
+
+		    break;
 		case R.id.btn_action_upload:
 			if (!Ultils.isConnectingToInternet(this)) {
 				showMsg(getResources().getString(R.string.open_network));

@@ -10,8 +10,12 @@
     -->
     <item
         android:id="@+id/btn_action_upload"
-        android:icon="@drawable/ic_upload"
+        android:title="@string/un_bookmark_label"
+        app:showAsAction="always|collapseActionView"
+        android:visible="false"/>
+    <item
+        android:id="@+id/filtering"
+        android:icon="@drawable/ic_btn_search"
         android:title="@string/un_bookmark_label"
         app:showAsAction="always|collapseActionView"/>
-
 </menu>
