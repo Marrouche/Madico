@@ -17,4 +17,4 @@
             <corners android:radius="3dp" />
         </shape></item>
   <stroke android:width="5px" android:color="#000000" />
-</selector><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/drawable/common_button.xml -->
+</selector><!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/drawable/common_button.xml -->

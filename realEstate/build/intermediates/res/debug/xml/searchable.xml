@@ -3,4 +3,4 @@
     android:label="@string/app_name"
     android:hint="@string/search_hint"
     android:voiceSearchMode="showVoiceSearchButton|launchRecognizer">
-</searchable><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/xml/searchable.xml -->
+</searchable><!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/xml/searchable.xml -->

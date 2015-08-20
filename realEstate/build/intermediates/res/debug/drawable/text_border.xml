@@ -5,4 +5,4 @@
         android:width="0.5dip"
         android:color="@color/violet" />
     <corners android:radius="3dp" />
-</shape><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/drawable/text_border.xml -->
+</shape><!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/drawable/text_border.xml -->

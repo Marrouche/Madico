@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/library/src/main/res/values/ids.xml -->
+    <!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/library/src/main/res/values/ids.xml -->
     <eat-comment/>
     <item name="text" type="id"/>
-    <!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/library/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/library/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="Bubble.TextAppearance.Dark" parent="android:TextAppearance.Medium">
         <item name="android:textSize">14sp</item>

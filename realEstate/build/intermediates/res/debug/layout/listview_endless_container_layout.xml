@@ -16,4 +16,4 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         layout="@layout/admob_fragment_layout" />
-</LinearLayout><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/layout/listview_endless_container_layout.xml -->
+</LinearLayout><!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/layout/listview_endless_container_layout.xml -->

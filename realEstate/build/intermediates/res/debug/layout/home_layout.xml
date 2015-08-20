@@ -29,4 +29,4 @@
         android:choiceMode="singleChoice"
         android:listSelector="@drawable/drawer_menu_item" />
 
-</android.support.v4.widget.DrawerLayout><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/layout/home_layout.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/layout/home_layout.xml -->

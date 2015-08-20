@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/about_us">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_gravity="center">
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:paddingBottom="20dp">
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Terms and Conditions"
+                android:textColor="@color/Gray"
+                android:id="@+id/textView"
+                android:layout_centerHorizontal="true"
+                 />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" 1.) General Conditions\n
+
+    The Applications are owned and/or operated by M &amp;M\n
+    Badgers and are intended for commercial use of the \n
+    Services by the client.\n\n
+
+ 2.) Disclaimer Conditions\n
+
+    Information available through an Application is \n
+    deemed to be reliable but not guaranteed. All real \n
+    estate listings are marked with the logo of the MLS \n
+    providing the listing and detailed information about \n
+    each listing includes the listing broker/agent name as\n
+    required by the localMLS.The listing broker has \n
+    attempted to offer accurate data,but buyers are \n
+    advised to confirm all items.\n\n
+
+ 3.) Special Term\n
+
+    Advertising and Marketing: M &amp;M Badgers may, in \n
+    its sole discretion, place advertisements in the \n
+    Application and Broker/Company shall not be entitled \n
+    to any compensation or revenue sharing from any such\n
+    advertising. Broker/Company shall market the \n
+    Application in Broker’s/Agent’s trade area to make \n
+    consumers aware of this unique tool on the Agent’s \n
+    website and where appropriate in the Broker’s/Agent’s\n
+    media advertising."
+                android:id="@+id/textView2"
+                android:textColor="@color/Gray"
+                android:layout_marginTop="28dp"
+                android:layout_below="@id/textView"/>
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
+<!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/layout/terms_conditions_layout.xml -->

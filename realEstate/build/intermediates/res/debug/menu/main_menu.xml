@@ -18,4 +18,4 @@
         android:icon="@drawable/ic_btn_search"
         android:title="@string/un_bookmark_label"
         app:showAsAction="always|collapseActionView"/>
-</menu><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/menu/main_menu.xml -->
+</menu><!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/menu/main_menu.xml -->

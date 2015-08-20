@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/tab_categories_pressed" android:state_focused="true"></item>
     <item android:drawable="@drawable/tab_categories_pressed" android:state_pressed="true"></item>
     <item android:drawable="@drawable/tab_categories_normal"></item>
-</selector><!-- From: file:/Users/mac/Documents/workspace/RealEstate%20Madico/realEstate/src/main/res/drawable/tab_categories.xml -->
+</selector><!-- From: file:/Users/mac/Documents/workspace/RealEstateMadico/realEstate/src/main/res/drawable/tab_categories.xml -->
